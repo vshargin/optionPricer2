@@ -1,0 +1,11 @@
+Package: optionPricer2
+Type: Package
+Title: Path-Dependent Option Pricing With Monte Carlo
+Version: 0.1.0
+Author: Vladimir Shargin
+Maintainer: Vladimir Shargin <v.shargin@student.uw.edu.pl>
+Description: Calculates the theoretical price of a path-dependent European-style up-and-in option using Monte Carlo simulation.
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp
